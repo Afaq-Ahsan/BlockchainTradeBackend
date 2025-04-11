@@ -1,0 +1,1 @@
+for running seed file  -> node seeders/seed.js seed-admin
